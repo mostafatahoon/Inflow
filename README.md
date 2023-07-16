@@ -36,5 +36,7 @@ class MyInterceptor(var accessToken: String) : Interceptor {
 4. Enjoy using the app to manage your doctor website efficiently. 
  ## Contributing 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the project repository. 
+ ## Demo Video
+Click [here](https://drive.google.com/file/d/1vk8ATH4dwgtbeZ6mEEPmfO_yzp2ks09O/view?usp=sharing) to watch a demo video of the app.
  ## License 
 Gradution Project  
