@@ -5,7 +5,9 @@ It also includes two RecyclerViews, one for the date of the week and one for the
 - View and check appointments for each day 
 - Access and update doctor's profile 
 - Write notes for each patient 
-- Search for specific patients 
+- Search for specific patients
+- View a patient's previous appointments
+- Add notes to specific patient
  ## Installation 
 1. Clone the repository:  git clone https://github.com/your-repo-link.git>  
 2. Open the project in your preferred IDE. 
