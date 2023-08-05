@@ -8,7 +8,7 @@ It also includes two RecyclerViews, one for the date of the week and one for the
 - Search for specific patients
 - View a patient's previous appointments
  ## Installation 
-1. Clone the repository:  git clone https://github.com/your-repo-link.git>  
+1. Clone the repository:  [git clone https://github.com/your-repo-link.git> ](https://github.com/mostafatahoon/Inflow.git) 
 2. Open the project in your preferred IDE. 
 3. Install the required dependencies using your package manager (e.g., Gradle, Maven). 
 4. Build and run the app on your mobile device or emulator. 
